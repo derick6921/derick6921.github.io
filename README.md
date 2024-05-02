@@ -20,7 +20,7 @@
   <!-- Game 1 -->
   <div class="game">
     <h2>Game 1</h2>
-    <iframe src="https://www.example.com/game1" width="800" height="600" frameborder="0"></iframe>
+    <iframe src="<div><script src="https://cdn.htmlgames.com/embed.js?game=TrafficRacer2&amp;bgcolor=white"></script></div>" width="800" height="600" frameborder="0"></iframe>
   </div>
 
   <!-- Game 2 -->
