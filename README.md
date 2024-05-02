@@ -48,6 +48,41 @@
   <div class="game">
     <h2>Game 2</h2>
      <iframe src=<div><script src=""<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=ArcheryTraining&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
+
+      <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=ClassicBubbleShooter&amp;bgcolor=white"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
+
+    <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=GalaxyShooter&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
+
+  <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=DunkBalls&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>  
+
+    <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=Hashiwokakero&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe> 
+
+     <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=TripeaksFarm&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe> 
+
+     <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=DailyTrafficJam&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
+
+     <!-- Traffic racer -->
+  <div class="game">
+    <h2>Game 1</h2>
+    <iframe src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=Aerobatics&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
   </div>
 </body>
 </html>
