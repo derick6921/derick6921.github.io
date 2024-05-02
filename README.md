@@ -3,42 +3,31 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Visitor Counter</title>
+<title>Happy Cat Dance</title>
 <style>
   body {
     font-family: Arial, sans-serif;
     text-align: center;
   }
-  #counter {
-    font-size: 24px;
-    margin-top: 50px;
+  #cat {
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    animation: catDance 20s infinite;
+  }
+  @keyframes catDance {
+    0% { transform: translateX(-50%) rotate(0deg); }
+    25% { transform: translateX(-50%) rotate(-10deg); }
+    50% { transform: translateX(-50%) rotate(0deg); }
+    75% { transform: translateX(-50%) rotate(10deg); }
+    100% { transform: translateX(-50%) rotate(0deg); }
   }
 </style>
 </head>
 <body>
-  <h1>Welcome to the Visitor Counter!</h1>
-  <p>This webpage will count how many people visit it.</p>
-  <div id="counter">Loading...</div>
-
-  <script>
-    // Function to increment and display the counter
-    function incrementCounter() {
-      let count = localStorage.getItem('visitCount');
-      if (!count) {
-        count = 0;
-      }
-      count++;
-      localStorage.setItem('visitCount', count);
-      document.getElementById('counter').textContent = "Total Visitors: " + count;
-    }
-
-    // Check if the page has been visited before
-    if (localStorage.getItem('visitCount')) {
-      incrementCounter();
-    } else {
-      localStorage.setItem('visitCount', 1);
-      document.getElementById('counter').textContent = "Total Visitors: 1";
-    }
-  </script>
+  <h1>Welcome to the Happy Cat Dance!</h1>
+  <p>Watch the happy cat dance below!</p>
+  <img id="cat" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Happy Cat">
 </body>
 </html>
