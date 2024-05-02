@@ -42,7 +42,12 @@
     <!-- Add more games as needed -->
   <div class="game">
     <h2>Game 2</h2>
-     <iframe src=<div><script src="<embed width="600" height="450" src="http://games.mochiads.com/c/g/papas-pizzeria/pizzeria_mochi.swf"  type="application/x-shockwave-flash"></embed><br/>Play more games at <a href="http://www.flipline.com/">Flipline Studios</a>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
+     <iframe src=<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=Tetris1024&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
+
+<!-- Add more games as needed -->
+  <div class="game">
+    <h2>Game 2</h2>
+     <iframe src=<div><script src=""<div><script src="<div><script src="https://cdn.htmlgames.com/embed.js?game=ArcheryTraining&amp;bgcolor=white"></script></div>"></script></div>"></script></div>"></script></div>"></script></div>" width="800" height="600" frameborder="0"></iframe>
   </div>
 </body>
 </html>
