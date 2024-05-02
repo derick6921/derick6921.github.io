@@ -15,7 +15,7 @@
 </style>
 </head>
 <body>
-  <h1>Welcome to the Game Collection!</h1>
+  <h1>Welcome to dericks gamesite!</h1>
   
   <!-- Traffic racer -->
   <div class="game">
