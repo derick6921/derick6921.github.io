@@ -26,5 +26,5 @@
   <!-- Game 2 -->
   <div class="game">
     <h2>Game 2</h2>
-    <iframe src="https://www.coolmathgames.com/0-run-3"
+    <iframe src="https://www.onlinegames.io/games/2023/unity2/gta-simulator/index.html"
 
